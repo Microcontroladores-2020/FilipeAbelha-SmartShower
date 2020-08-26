@@ -11,10 +11,10 @@ Bem-vindo ao Smart Shower, um chuveiro inteligente que mantém uma temperatura c
 
 ## Como utilizar
 
-1. Ligue o dispositivo
-2. Espere até que o Smart Shower calcule a melhor temperatura para o seu banho
-3. Abra o chuveiro e regule o fluxo de água de uma forma confortável
-4. Tome seu banho com uma temperatura constante, podendo mudar o fluxo de água à vontade
+1. Ligue o dispositivo.
+2. Espere até que o Smart Shower calcule a melhor temperatura para o seu banho.
+3. Abra o chuveiro e regule o fluxo de água de uma forma confortável.
+4. Tome seu banho com uma temperatura constante, podendo mudar o fluxo de água à vontade.
 5. Ao terminar, desligue pelo controle remoto. Assim, na próxima vez, basta ligar pelo controle remoto novamente.
 
 ## High-level Design
