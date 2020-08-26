@@ -43,5 +43,6 @@ Lógica utilizada para proporcionar a experiência descrita.
 
 ## Roadmap
 
+* Terminar de implementar todas as funções.
 * Expandir a funcionalidade de aumentar e diminuir a temperatura, podendo digitar o número exato pelo controle remoto.
 * Criar um segundo modo, no qual o Smart Shower apenas carrega a última temperatura utilizada, sem sugerir uma nova.
