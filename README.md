@@ -1,4 +1,4 @@
-# Smart Shower, a solução inteligente para seu banho!
+# Smart Shower, a solução inteligente para seu banho
 
 ![Shower](https://github.com/Microcontroladores-2020/FilipeAbelha-SmartShower/blob/master/img/Shower.jpg?raw=true)
 
